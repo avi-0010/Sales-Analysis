@@ -37,4 +37,4 @@ A small group of customers contributed a significant share of overall sales, emp
 
 📷 Dashboard Preview
 
-![imgage alt]()
+![imgage alt](https://github.com/avi-0010/Sales-Analysis/blob/main/screenshot.png?raw=true)
